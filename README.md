@@ -1,4 +1,3 @@
-Drew Pnutz (@drewpnutz)
 ![DrewPnutz](cat.gif)
 
 👋 About Me
