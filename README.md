@@ -1,7 +1,9 @@
 ![DrewPnutz](cat.gif)
 
 👋 About Me
-  * Seasoned network security expert with a decade of experience in enterprise financial environments, expanding into broader cybersecurity domains. Skilled in navigating complex cloud architectures and developing innovative security solutions. Quick learner with a passion for emerging technologies.
+  * Seasoned network security expert with a decade of experience in enterprise financial environments, expanding into broader cybersecurity domains.
+  * Skilled in navigating complex cloud architectures and developing innovative security solutions.
+  * Quick learner with a passion for emerging technologies.
 
 🛠 Expertise
   * Network Security Architecture (Enterprise Public & Private Cloud)
